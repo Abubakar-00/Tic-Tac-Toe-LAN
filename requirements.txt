@@ -1,0 +1,6 @@
+socket
+hashlib
+sqlite3
+threading
+datetime
+pyfiglet
