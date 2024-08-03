@@ -36,7 +36,6 @@ Ensure you have Python 3.10 installed on your system.
 1. Clone the repository:
     ```sh
     git clone https://github.com/Abubakar-00/Tic-Tac-Toe-LAN.git
-    cd tic-tac-toe-online
     ```
 
 2. Install required dependencies:
@@ -111,7 +110,7 @@ Ensure you have Python 3.10 installed on your system.
 ### Common Issues
 
 - **Server Not Running**: Ensure the server is running and the IP address/port is correct.
-- **Database Errors**: Ensure the database is properly set up using `setup_database.py`.
+- **Database Errors**: Ensure the database is in the same directory.
 - **Connection Issues**: Check firewall settings and ensure the correct IP and port are used.
 
 ## Contributors
