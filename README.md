@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Online
+# Tic-Tac-Toe LAN
 
 ## Introduction
 
@@ -29,24 +29,19 @@ Tic-Tac-Toe Online is a networked multiplayer version of the classic Tic-Tac-Toe
 
 ### Prerequisites
 
-Ensure you have Python 3.x installed on your system.
+Ensure you have Python 3.10 installed on your system.
 
 ### Steps
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tic-tac-toe-online.git
+    git clone https://github.com/Abubakar-00/Tic-Tac-Toe-LAN.git
     cd tic-tac-toe-online
     ```
 
 2. Install required dependencies:
     ```sh
     pip install -r requirements.txt
-    ```
-
-3. Set up the database:
-    ```sh
-    python setup_database.py
     ```
 
 ## Usage
@@ -69,7 +64,7 @@ Ensure you have Python 3.x installed on your system.
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.10
 - `socket` - for networking
 - `hashlib` - for hashing passwords
 - `sqlite3` - for database management
@@ -121,7 +116,7 @@ Ensure you have Python 3.x installed on your system.
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Muhammad Abubakar Saddique](https://github.com/Abubakar-00)
 
 ## License
 
