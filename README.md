@@ -1,8 +1,14 @@
 # Tic-Tac-Toe LAN
 
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/93445f2d-a8b3-409e-8803-3dfff33d0bd4">
+</p>
+
 ## Introduction
 
 Tic-Tac-Toe Online is a networked multiplayer version of the classic Tic-Tac-Toe game. The application consists of a server that handles user authentication, game state, and communication, and a client that allows users to log in, sign up, view profiles, join the lobby, and play the game.
+
 
 ## Table of Contents
 
